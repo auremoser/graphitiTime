@@ -8,6 +8,8 @@ Files in the repo represent the data (spreadsheets culled from the link above), 
 
 Further explanation can be found in the step-by-step below.
 
+View the project as rendered on this git page: [http://auremoser.github.com/graphitiTime](http://auremoser.github.com/graphitiTime)
+
 Description
 ============================
 From the NYC.gov open data portal, I selected a dataset logging the location of graffiti incidences in the 5 boroughs (including address, borough, community board, police precinct, city council district). The CSV that I exported and then loaded into Excel also included individual rows for each of the number of incidences and then the number and location of responses (clean up) of incidents mapped to the same locations. For the purpose of simplicity, I eliminated specific address data and focused on the boroughs, deciding that my visualization would represent the amount of graffiti vandalism per borough, and then the relative responsiveness of authorities to incidences, as indicated by the amount of comparative cleaning incidences that were logged. 
