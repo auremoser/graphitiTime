@@ -1,4 +1,4 @@
-Graphiti Project - NYC Graffiti Data
+Graphiti Project - NYC Graffiti Data (part 1 of 3)
 ============================
 
 Bar graph visualization of graffiti "incidents" and corresponding cleanup efforts in NYC (2010-2011). 
