@@ -42,3 +42,7 @@ On the whole, Staten Island had the lowest incidents of graffiti. Brooklyn and Q
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/graphititime/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
